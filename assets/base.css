@@ -2965,6 +2965,8 @@ details-disclosure > details {
     padding: 0;
     background: #fff6e2;
   }
+}
+@media screen and (max-width: 749px) {
   .image-with-text__media img {
     width: 70% !important;
     position: relative !important;
