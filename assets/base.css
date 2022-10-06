@@ -2988,3 +2988,6 @@ details-disclosure > details {
 .image-with-text .grid__item {
   margin-top: 6rem;
 }
+.card-information {
+  text-align: center;
+}
