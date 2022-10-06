@@ -2995,7 +2995,8 @@ details-disclosure > details {
   text-align: center;
 }
 .quick-add__submit {
-  min-width: 30%;
+  width: 30% !important;
   margin: 0 auto;
   display: flex;
+  min-width: 30% !important;
 }
