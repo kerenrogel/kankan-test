@@ -147,12 +147,102 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "fcd32273-0514-4581-ab68-7da715069c5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14500794236992__fcd32273-0514-4581-ab68-7da715069c5e-166503440016a8483c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Send it #plasticfree",
+            "heading_size": "h1"
+          }
+        },
+        "template--14500794236992__fcd32273-0514-4581-ab68-7da715069c5e-166503440016a8483c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>KANKAN is proud to partner with <br\/>Flexi-hex, a Cornish company equally motivated to make a big impact on removing single-use plastic from the oceans. Made from recycled paper, and water-based adhesive - this lightweight showstopper of packaging means it is totally biodegradable and home compostable. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14500794236992__fcd32273-0514-4581-ab68-7da715069c5e-166503440016a8483c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOW NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14500794236992__fcd32273-0514-4581-ab68-7da715069c5e-166503440016a8483c-0",
+        "template--14500794236992__fcd32273-0514-4581-ab68-7da715069c5e-166503440016a8483c-1",
+        "template--14500794236992__fcd32273-0514-4581-ab68-7da715069c5e-166503440016a8483c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/plastic-free.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "32a2e003-f2d1-4084-b09a-9c9823ce279b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14500794236992__32a2e003-f2d1-4084-b09a-9c9823ce279b-166503440016a8483c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tree Planting",
+            "heading_size": "h1"
+          }
+        },
+        "template--14500794236992__32a2e003-f2d1-4084-b09a-9c9823ce279b-166503440016a8483c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>KANKAN is proud to partner with <br\/>Flexi-hex, a Cornish company equally motivated to make a big impact on removing single-use plastic from the oceans. Made from recycled paper, and water-based adhesive - this lightweight showstopper of packaging means it is totally biodegradable and home compostable. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14500794236992__32a2e003-f2d1-4084-b09a-9c9823ce279b-166503440016a8483c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOW NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14500794236992__32a2e003-f2d1-4084-b09a-9c9823ce279b-166503440016a8483c-0",
+        "template--14500794236992__32a2e003-f2d1-4084-b09a-9c9823ce279b-166503440016a8483c-1",
+        "template--14500794236992__32a2e003-f2d1-4084-b09a-9c9823ce279b-166503440016a8483c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/plastic-free.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "featured_collection",
-    "9bc67489-ed4e-47f2-9743-9334f45584db"
+    "9bc67489-ed4e-47f2-9743-9334f45584db",
+    "fcd32273-0514-4581-ab68-7da715069c5e",
+    "32a2e003-f2d1-4084-b09a-9c9823ce279b"
   ]
 }
