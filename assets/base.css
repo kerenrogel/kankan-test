@@ -2999,4 +2999,6 @@ details-disclosure > details {
   margin: 0 auto;
   display: flex;
   min-width: 30% !important;
+  background: #212121;
+  color: #fff;
 }
