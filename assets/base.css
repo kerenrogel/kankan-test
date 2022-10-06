@@ -2991,3 +2991,6 @@ details-disclosure > details {
 .card-information {
   text-align: center;
 }
+.card__information {
+  text-align: center;
+}
