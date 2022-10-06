@@ -2970,3 +2970,6 @@ details-disclosure > details {
   width: 80%;
   height: 70%;
 }
+.global-media-settings {
+  border: none;
+}
