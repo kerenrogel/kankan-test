@@ -2965,6 +2965,10 @@ details-disclosure > details {
     padding: 0;
     background: #fff6e2;
   }
+  .image-with-text__media img {
+    width: 70% !important;
+    position: relative !important;
+  }
 }
 .image-with-text__media img {
   width: 70% !important;
