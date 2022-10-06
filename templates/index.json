@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Everyone needs to be clean. We've just made it really lovely.<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Who wouldn't want to be part of a revolution that feels this good? Add another sentence or two here to emphasise the benefits of the product and brand.<\/p>"
           }
         }
       },
@@ -87,8 +87,8 @@
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
+        "products_to_show": 2,
+        "columns_desktop": 2,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
