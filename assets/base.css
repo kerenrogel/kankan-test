@@ -3027,3 +3027,6 @@ details-disclosure > details {
   font-style: italic;
   font-size: 16px;
 }
+.multicolumn.background-primary .multicolumn-card {
+  background: #fff;
+}
