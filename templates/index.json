@@ -112,6 +112,7 @@
           "type": "column",
           "settings": {
             "title": "",
+            "author": "The Independent",
             "text": "<p>\"This brand has clearly spent a long time thinking about all aspects of it's business model, from it's cleverly designed yet minimalist packaging to planting a tree with every can sold\"<\/p>",
             "link_label": "",
             "link": ""
@@ -121,6 +122,7 @@
           "type": "column",
           "settings": {
             "title": "",
+            "author": "Evening Standard",
             "text": "<p>\"We trried the delicious smelling mandarin and clary sage - This hand soap certainly feels luxurious and a little goes a long way.\"<\/p>",
             "link_label": "",
             "link": ""
