@@ -2977,6 +2977,7 @@ details-disclosure > details {
   width: 70%;
   margin: 0 auto;
   display: flex;
+  align-items: center;
 }
 .image-with-text .grid__item {
   margin-top: 6rem;
