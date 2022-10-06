@@ -3007,3 +3007,6 @@ details-disclosure > details {
   background-color: #1a1a1a;
   color: #fff;
 }
+.banner__box {
+  padding: 4rem 0rem !important;
+}
