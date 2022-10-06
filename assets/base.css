@@ -2978,3 +2978,6 @@ details-disclosure > details {
   margin: 0 auto;
   display: flex;
 }
+.image-with-text .grid__item {
+  margin-top: 6rem;
+}
