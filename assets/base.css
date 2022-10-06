@@ -2967,8 +2967,8 @@ details-disclosure > details {
   }
 }
 .media>img {
-  width: 80%;
-  height: 70%;
+  width: 80% !important;
+  height: 70% !important;
 }
 .global-media-settings {
   border: none;
