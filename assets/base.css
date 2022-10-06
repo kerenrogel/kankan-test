@@ -2973,3 +2973,8 @@ details-disclosure > details {
 .global-media-settings {
   border: none;
 }
+.image-with-text__grid.grid.grid--gapless.grid--1-col.grid--2-col-tablet.image-with-text__grid--reverse {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+}
