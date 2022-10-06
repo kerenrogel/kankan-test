@@ -2966,7 +2966,7 @@ details-disclosure > details {
     background: #fff6e2;
   }
 }
-.image-with-text__grid.media>img {
+.image-with-text__media img {
   width: 70% !important;
   position: relative !important;
 }
