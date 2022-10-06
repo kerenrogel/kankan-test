@@ -2989,7 +2989,7 @@ details-disclosure > details {
   margin-top: 6rem;
 }
 .card-information {
-  text-align: center;
+  text-align: center !important;
 }
 .card__information {
   text-align: center;
