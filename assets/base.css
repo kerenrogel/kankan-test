@@ -2967,8 +2967,7 @@ details-disclosure > details {
   }
 }
 .media>img {
-  width: 80% !important;
-  height: 70% !important;
+  width: 70% !important;
   position: relative !important;
 }
 .global-media-settings {
