@@ -2960,3 +2960,9 @@ details-disclosure > details {
 
 /* ============== Add any custom styles below this line ============== */
 @import "custom.css"
+@media screen and (min-width: 750px) {
+  .image-with-text.image-with-text--no-overlap.page-width.isolate {
+    max-width: 100%;
+    padding: 0;
+  }
+}
