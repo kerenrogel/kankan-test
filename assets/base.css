@@ -2963,5 +2963,6 @@ details-disclosure > details {
   .image-with-text.image-with-text--no-overlap.page-width.isolate {
     max-width: 100%;
     padding: 0;
+    background: #fff6e2;
   }
 }
