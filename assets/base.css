@@ -3023,3 +3023,7 @@ details-disclosure > details {
 .multicolumn-card__info {
   font-size: 21px;
 }
+.multicolumn-card__info h3 {
+  font-style: italic;
+  font-size: 16px;
+}
