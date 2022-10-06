@@ -2973,10 +2973,8 @@ details-disclosure > details {
     position: relative !important;
   }
   .banner__text {
-    font-size: 21px;
-    line-height: 1.3;
-    width: 100%;
-    color: #fff;
+    font-size: 19px !important;
+    width: 100% !important;
   }
 }
 .image-with-text__media img {
