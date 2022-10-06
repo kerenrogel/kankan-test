@@ -2966,3 +2966,7 @@ details-disclosure > details {
     background: #fff6e2;
   }
 }
+.media>img {
+  width: 80%;
+  height: 70%;
+}
